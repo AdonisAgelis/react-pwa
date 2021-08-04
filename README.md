@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The PWA React Weather App is hosted at: https://xenodochial-swartz-50b1fb.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
